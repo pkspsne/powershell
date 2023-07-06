@@ -1,4 +1,4 @@
-# RemoveBlankEntriesFromArray.ps1
+# RemoveBlankEntriesFromAnArray.ps1
 # By pkspsne on 2023-07-06
 
 # Create an array with 5 elements, two of which are empty strings.
