@@ -18,3 +18,10 @@ $items = @("Something","Something else","Also something","","")
 # that return true back to the original variable.
 
 $items = $items | ForEach-Object { If ($_) { $_ } }
+
+# Now if we print the $items array, it will only consist of the original
+# items which were not blank.
+
+$items 
+
+# $items = @("Something","Something else","Also something")
