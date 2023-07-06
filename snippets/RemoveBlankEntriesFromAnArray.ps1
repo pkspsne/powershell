@@ -20,7 +20,7 @@ $items.Count
 # OUTPUT:
 # 5
 
-# In PowerShell, an empty string will return false when used as a
+# In PowerShell, an empty string will return false when used as the
 # condition in an If statement:
 #
 # Example: $x = ""
